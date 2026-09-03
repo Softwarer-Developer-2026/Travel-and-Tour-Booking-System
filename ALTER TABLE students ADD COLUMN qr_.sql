@@ -1,1 +1,0 @@
-ALTER TABLE students ADD COLUMN qr_code VARCHAR(255) NULL AFTER nic;
